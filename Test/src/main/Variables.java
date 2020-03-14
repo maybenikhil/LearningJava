@@ -10,8 +10,9 @@ public class Variables {
 
         int salary, hoursWorked;
         String middleName, lastName, initials;
-        firstName = "jane";
-        number = 25*5;
+
+        firstName = "Jane"; // assignment statement
+        number = 25 * 5;
         letter = 'a';
         flag = true;
     }
