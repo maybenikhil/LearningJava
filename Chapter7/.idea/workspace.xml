@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8933babc-d5a5-459d-b073-cad2d21dad85" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1Z98UbKzCPaCGzXWm5eBXKM8blK" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RunManager" selected="Application.Letter">
+    <configuration name="Chap7Part1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chap7Part1" />
+      <module name="Chapter7" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Chap7Part2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chap7Part2" />
+      <module name="Chapter7" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Chap7Part3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chap7Part3" />
+      <module name="Chapter7" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Chapter7Part4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapter7Part4" />
+      <module name="Chapter7" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Letter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Letter" />
+      <module name="Chapter7" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Letter" />
+        <item itemvalue="Application.Chapter7Part4" />
+        <item itemvalue="Application.Chap7Part3" />
+        <item itemvalue="Application.Chap7Part2" />
+        <item itemvalue="Application.Chap7Part1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8933babc-d5a5-459d-b073-cad2d21dad85" name="Default Changelist" comment="" />
+      <created>1584239965585</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584239965585</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="2519" height="402" key="GridCell.Tab.0.bottom" timestamp="1584242295661">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2519" height="402" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1584242295661" />
+    <state width="2519" height="402" key="GridCell.Tab.0.center" timestamp="1584242295661">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2519" height="402" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1584242295661" />
+    <state width="2519" height="402" key="GridCell.Tab.0.left" timestamp="1584242295661">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2519" height="402" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1584242295661" />
+    <state width="2519" height="402" key="GridCell.Tab.0.right" timestamp="1584242295661">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2519" height="402" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1584242295661" />
+    <state width="2519" height="496" key="GridCell.Tab.1.bottom" timestamp="1584242295658">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2519" height="496" key="GridCell.Tab.1.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1584242295658" />
+    <state width="2519" height="496" key="GridCell.Tab.1.center" timestamp="1584242295657">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2519" height="496" key="GridCell.Tab.1.center/0.0.2560.1400@0.0.2560.1400" timestamp="1584242295657" />
+    <state width="2519" height="496" key="GridCell.Tab.1.left" timestamp="1584242295657">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2519" height="496" key="GridCell.Tab.1.left/0.0.2560.1400@0.0.2560.1400" timestamp="1584242295657" />
+    <state width="2519" height="496" key="GridCell.Tab.1.right" timestamp="1584242295657">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2519" height="496" key="GridCell.Tab.1.right/0.0.2560.1400@0.0.2560.1400" timestamp="1584242295657" />
+    <state x="811" y="343" key="SettingsEditor" timestamp="1584241622463">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="811" y="343" key="SettingsEditor/0.0.2560.1400@0.0.2560.1400" timestamp="1584241622463" />
+    <state x="915" y="524" key="com.intellij.ide.util.TipDialog" timestamp="1584405408727">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="915" y="524" key="com.intellij.ide.util.TipDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1584405408727" />
+  </component>
+</project>

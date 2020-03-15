@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c730b5c7-0194-46a2-ac89-550f909dcd69" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1Z8U4J1UJiGSfpGWTygHEW80h4P" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunManager" selected="Application.Formulas">
+    <configuration name="Final" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Final" />
+      <module name="Chapter6" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Formulas" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Formulas" />
+      <module name="Chapter6" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MathClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MathClass" />
+      <module name="Chapter6" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MixedMath" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MixedMath" />
+      <module name="Chapter6" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Operators" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Operators" />
+      <module name="Chapter6" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrderOps" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OrderOps" />
+      <module name="Chapter6" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Formulas" />
+        <item itemvalue="Application.MixedMath" />
+        <item itemvalue="Application.MathClass" />
+        <item itemvalue="Application.Final" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c730b5c7-0194-46a2-ac89-550f909dcd69" name="Default Changelist" comment="" />
+      <created>1584220021072</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584220021072</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="872" y="358" key="#Project_Structure" timestamp="1584220033680">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="872" y="358" key="#Project_Structure/0.0.2560.1400@0.0.2560.1400" timestamp="1584220033680" />
+    <state x="937" y="332" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1584226565978">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="937" y="332" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1584226565978" />
+    <state width="2519" height="401" key="GridCell.Tab.0.bottom" timestamp="1584239967645">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2519" height="401" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1584239967645" />
+    <state width="2519" height="401" key="GridCell.Tab.0.center" timestamp="1584239967645">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2519" height="401" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1584239967645" />
+    <state width="2519" height="401" key="GridCell.Tab.0.left" timestamp="1584239967645">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2519" height="401" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1584239967645" />
+    <state width="2519" height="401" key="GridCell.Tab.0.right" timestamp="1584239967645">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2519" height="401" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1584239967645" />
+    <state x="1173" y="192" key="SettingsEditor" timestamp="1584239815002">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1173" y="192" key="SettingsEditor/0.0.2560.1400@0.0.2560.1400" timestamp="1584239815002" />
+    <state x="915" y="524" key="com.intellij.ide.util.TipDialog" timestamp="1584239826856">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="915" y="524" key="com.intellij.ide.util.TipDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1584239826856" />
+    <state x="444" y="276" key="new project wizard" timestamp="1584239965535">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="444" y="276" key="new project wizard/0.0.2560.1400@0.0.2560.1400" timestamp="1584239965535" />
+  </component>
+</project>
