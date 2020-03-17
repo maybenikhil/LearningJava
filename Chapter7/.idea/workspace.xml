@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8933babc-d5a5-459d-b073-cad2d21dad85" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="8933babc-d5a5-459d-b073-cad2d21dad85" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -90,6 +88,10 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
+    <state x="1060" y="442" key="FileChooserDialogImpl" timestamp="1584410293857">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1060" y="442" key="FileChooserDialogImpl/0.0.2560.1400@0.0.2560.1400" timestamp="1584410293857" />
     <state width="2519" height="402" key="GridCell.Tab.0.bottom" timestamp="1584242295661">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
@@ -130,5 +132,9 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="915" y="524" key="com.intellij.ide.util.TipDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1584405408727" />
+    <state x="444" y="276" key="new project wizard" timestamp="1584410296246">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="444" y="276" key="new project wizard/0.0.2560.1400@0.0.2560.1400" timestamp="1584410296246" />
   </component>
 </project>
